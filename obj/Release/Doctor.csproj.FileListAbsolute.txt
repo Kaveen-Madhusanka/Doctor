@@ -1,0 +1,117 @@
+C:\Users\DELL\Desktop\New folder\Doctor\Doctor\bin\Release\Doctor.exe.config
+C:\Users\DELL\Desktop\New folder\Doctor\Doctor\bin\Release\Doctor.exe.manifest
+C:\Users\DELL\Desktop\New folder\Doctor\Doctor\bin\Release\Doctor.application
+C:\Users\DELL\Desktop\New folder\Doctor\Doctor\bin\Release\Doctor.exe
+C:\Users\DELL\Desktop\New folder\Doctor\Doctor\bin\Release\Doctor.pdb
+C:\Users\DELL\Desktop\New folder\Doctor\Doctor\obj\Release\Doctor.Instructions.resources
+C:\Users\DELL\Desktop\New folder\Doctor\Doctor\obj\Release\Doctor.Login.resources
+C:\Users\DELL\Desktop\New folder\Doctor\Doctor\obj\Release\Doctor.Medicine.resources
+C:\Users\DELL\Desktop\New folder\Doctor\Doctor\obj\Release\Doctor.Properties.Resources.resources
+C:\Users\DELL\Desktop\New folder\Doctor\Doctor\obj\Release\Doctor.csproj.GenerateResource.Cache
+C:\Users\DELL\Desktop\New folder\Doctor\Doctor\obj\Release\Doctor.exe.manifest
+C:\Users\DELL\Desktop\New folder\Doctor\Doctor\obj\Release\Doctor.application
+C:\Users\DELL\Desktop\New folder\Doctor\Doctor\obj\Release\Doctor.exe
+C:\Users\DELL\Desktop\New folder\Doctor\Doctor\obj\Release\Doctor.pdb
+C:\Users\DELL\Desktop\New folder\Doctor\Doctor\obj\Release\Doctor.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Desktop\New folder\Doctor\Doctor\obj\Release\Doctor.contact.resources
+C:\Users\DELL\Desktop\trying system\New folder\Doctor\Doctor\bin\Release\Doctor.exe.config
+C:\Users\DELL\Desktop\trying system\New folder\Doctor\Doctor\obj\Release\Doctor.exe
+C:\Users\DELL\Desktop\trying system\New folder\Doctor\Doctor\obj\Release\Doctor.pdb
+C:\Users\DELL\Desktop\trying system\New folder\Doctor\Doctor\bin\Release\Doctor.exe.manifest
+C:\Users\DELL\Desktop\trying system\New folder\Doctor\Doctor\bin\Release\Doctor.application
+C:\Users\DELL\Desktop\trying system\New folder\Doctor\Doctor\bin\Release\Doctor.exe
+C:\Users\DELL\Desktop\trying system\New folder\Doctor\Doctor\bin\Release\Doctor.pdb
+C:\Users\DELL\Desktop\trying system\New folder\Doctor\Doctor\obj\Release\Doctor.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Desktop\trying system\New folder\Doctor\Doctor\obj\Release\Doctor.contact.resources
+C:\Users\DELL\Desktop\trying system\New folder\Doctor\Doctor\obj\Release\Doctor.Instructions.resources
+C:\Users\DELL\Desktop\trying system\New folder\Doctor\Doctor\obj\Release\Doctor.Login.resources
+C:\Users\DELL\Desktop\trying system\New folder\Doctor\Doctor\obj\Release\Doctor.Medicine.resources
+C:\Users\DELL\Desktop\trying system\New folder\Doctor\Doctor\obj\Release\Doctor.Properties.Resources.resources
+C:\Users\DELL\Desktop\trying system\New folder\Doctor\Doctor\obj\Release\Doctor.csproj.GenerateResource.Cache
+C:\Users\DELL\Desktop\trying system\New folder\Doctor\Doctor\obj\Release\Doctor.exe.manifest
+C:\Users\DELL\Desktop\trying system\New folder\Doctor\Doctor\obj\Release\Doctor.application
+C:\Users\DELL\Desktop\trying system\New folder\Doctor\Doctor\obj\Release\Doctor.Bill.resources
+C:\Users\DELL\Desktop\trying system\New folder\Doctor\Doctor\obj\Release\Doctor.Add_Medicine.resources
+C:\Users\DELL\Desktop\trying system\New folder\Doctor\Doctor\obj\Release\Doctor.Create_Account.resources
+C:\Users\DELL\Desktop\trying system\New folder\Doctor\Doctor\obj\Release\Doctor.About.resources
+C:\Users\DELL\Desktop\trying system\diagram\New folder\Doctor\Doctor\bin\Release\Doctor.exe.config
+C:\Users\DELL\Desktop\trying system\diagram\New folder\Doctor\Doctor\obj\Release\Doctor.exe
+C:\Users\DELL\Desktop\trying system\diagram\New folder\Doctor\Doctor\obj\Release\Doctor.pdb
+C:\Users\DELL\Desktop\trying system\diagram\New folder\Doctor\Doctor\bin\Release\Doctor.exe.manifest
+C:\Users\DELL\Desktop\trying system\diagram\New folder\Doctor\Doctor\bin\Release\Doctor.application
+C:\Users\DELL\Desktop\trying system\diagram\New folder\Doctor\Doctor\bin\Release\Doctor.exe
+C:\Users\DELL\Desktop\trying system\diagram\New folder\Doctor\Doctor\bin\Release\Doctor.pdb
+C:\Users\DELL\Desktop\trying system\diagram\New folder\Doctor\Doctor\obj\Release\Doctor.About.resources
+C:\Users\DELL\Desktop\trying system\diagram\New folder\Doctor\Doctor\obj\Release\Doctor.Add_Medicine.resources
+C:\Users\DELL\Desktop\trying system\diagram\New folder\Doctor\Doctor\obj\Release\Doctor.Bill.resources
+C:\Users\DELL\Desktop\trying system\diagram\New folder\Doctor\Doctor\obj\Release\Doctor.contact.resources
+C:\Users\DELL\Desktop\trying system\diagram\New folder\Doctor\Doctor\obj\Release\Doctor.Create_Account.resources
+C:\Users\DELL\Desktop\trying system\diagram\New folder\Doctor\Doctor\obj\Release\Doctor.Instructions.resources
+C:\Users\DELL\Desktop\trying system\diagram\New folder\Doctor\Doctor\obj\Release\Doctor.Login.resources
+C:\Users\DELL\Desktop\trying system\diagram\New folder\Doctor\Doctor\obj\Release\Doctor.Medicine.resources
+C:\Users\DELL\Desktop\trying system\diagram\New folder\Doctor\Doctor\obj\Release\Doctor.Properties.Resources.resources
+C:\Users\DELL\Desktop\trying system\diagram\New folder\Doctor\Doctor\obj\Release\Doctor.csproj.GenerateResource.Cache
+C:\Users\DELL\Desktop\trying system\diagram\New folder\Doctor\Doctor\obj\Release\Doctor.exe.manifest
+C:\Users\DELL\Desktop\trying system\diagram\New folder\Doctor\Doctor\obj\Release\Doctor.application
+C:\Users\DELL\Desktop\trying system\diagram\New folder\Doctor\Doctor\obj\Release\Doctor.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Desktop\trying system - Copy\diagram\New folder\Doctor\Doctor\bin\Release\Doctor.exe.config
+C:\Users\DELL\Desktop\trying system - Copy\diagram\New folder\Doctor\Doctor\obj\Release\Doctor.exe
+C:\Users\DELL\Desktop\trying system - Copy\diagram\New folder\Doctor\Doctor\obj\Release\Doctor.pdb
+C:\Users\DELL\Desktop\trying system - Copy\diagram\New folder\Doctor\Doctor\bin\Release\Doctor.exe.manifest
+C:\Users\DELL\Desktop\trying system - Copy\diagram\New folder\Doctor\Doctor\bin\Release\Doctor.application
+C:\Users\DELL\Desktop\trying system - Copy\diagram\New folder\Doctor\Doctor\bin\Release\Doctor.exe
+C:\Users\DELL\Desktop\trying system - Copy\diagram\New folder\Doctor\Doctor\bin\Release\Doctor.pdb
+C:\Users\DELL\Desktop\trying system - Copy\diagram\New folder\Doctor\Doctor\obj\Release\Doctor.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Desktop\trying system - Copy\diagram\New folder\Doctor\Doctor\obj\Release\Doctor.About.resources
+C:\Users\DELL\Desktop\trying system - Copy\diagram\New folder\Doctor\Doctor\obj\Release\Doctor.Add_Medicine.resources
+C:\Users\DELL\Desktop\trying system - Copy\diagram\New folder\Doctor\Doctor\obj\Release\Doctor.Bill.resources
+C:\Users\DELL\Desktop\trying system - Copy\diagram\New folder\Doctor\Doctor\obj\Release\Doctor.contact.resources
+C:\Users\DELL\Desktop\trying system - Copy\diagram\New folder\Doctor\Doctor\obj\Release\Doctor.Create_Account.resources
+C:\Users\DELL\Desktop\trying system - Copy\diagram\New folder\Doctor\Doctor\obj\Release\Doctor.Instructions.resources
+C:\Users\DELL\Desktop\trying system - Copy\diagram\New folder\Doctor\Doctor\obj\Release\Doctor.Login.resources
+C:\Users\DELL\Desktop\trying system - Copy\diagram\New folder\Doctor\Doctor\obj\Release\Doctor.Medicine.resources
+C:\Users\DELL\Desktop\trying system - Copy\diagram\New folder\Doctor\Doctor\obj\Release\Doctor.Properties.Resources.resources
+C:\Users\DELL\Desktop\trying system - Copy\diagram\New folder\Doctor\Doctor\obj\Release\Doctor.csproj.GenerateResource.Cache
+C:\Users\DELL\Desktop\trying system - Copy\diagram\New folder\Doctor\Doctor\obj\Release\Doctor.exe.manifest
+C:\Users\DELL\Desktop\trying system - Copy\diagram\New folder\Doctor\Doctor\obj\Release\Doctor.application
+C:\Users\DELL\Desktop\trying system - Copy - Copy\diagram\New folder\Doctor\Doctor\bin\Release\Doctor.exe.config
+C:\Users\DELL\Desktop\trying system - Copy - Copy\diagram\New folder\Doctor\Doctor\obj\Release\Doctor.exe
+C:\Users\DELL\Desktop\trying system - Copy - Copy\diagram\New folder\Doctor\Doctor\obj\Release\Doctor.pdb
+C:\Users\DELL\Desktop\trying system - Copy - Copy\diagram\New folder\Doctor\Doctor\bin\Release\Doctor.exe.manifest
+C:\Users\DELL\Desktop\trying system - Copy - Copy\diagram\New folder\Doctor\Doctor\bin\Release\Doctor.application
+C:\Users\DELL\Desktop\trying system - Copy - Copy\diagram\New folder\Doctor\Doctor\bin\Release\Doctor.exe
+C:\Users\DELL\Desktop\trying system - Copy - Copy\diagram\New folder\Doctor\Doctor\bin\Release\Doctor.pdb
+C:\Users\DELL\Desktop\trying system - Copy - Copy\diagram\New folder\Doctor\Doctor\obj\Release\Doctor.About.resources
+C:\Users\DELL\Desktop\trying system - Copy - Copy\diagram\New folder\Doctor\Doctor\obj\Release\Doctor.Add_Medicine.resources
+C:\Users\DELL\Desktop\trying system - Copy - Copy\diagram\New folder\Doctor\Doctor\obj\Release\Doctor.Bill.resources
+C:\Users\DELL\Desktop\trying system - Copy - Copy\diagram\New folder\Doctor\Doctor\obj\Release\Doctor.contact.resources
+C:\Users\DELL\Desktop\trying system - Copy - Copy\diagram\New folder\Doctor\Doctor\obj\Release\Doctor.Create_Account.resources
+C:\Users\DELL\Desktop\trying system - Copy - Copy\diagram\New folder\Doctor\Doctor\obj\Release\Doctor.Instructions.resources
+C:\Users\DELL\Desktop\trying system - Copy - Copy\diagram\New folder\Doctor\Doctor\obj\Release\Doctor.Login.resources
+C:\Users\DELL\Desktop\trying system - Copy - Copy\diagram\New folder\Doctor\Doctor\obj\Release\Doctor.Medicine.resources
+C:\Users\DELL\Desktop\trying system - Copy - Copy\diagram\New folder\Doctor\Doctor\obj\Release\Doctor.Properties.Resources.resources
+C:\Users\DELL\Desktop\trying system - Copy - Copy\diagram\New folder\Doctor\Doctor\obj\Release\Doctor.csproj.GenerateResource.Cache
+C:\Users\DELL\Desktop\trying system - Copy - Copy\diagram\New folder\Doctor\Doctor\obj\Release\Doctor.exe.manifest
+C:\Users\DELL\Desktop\trying system - Copy - Copy\diagram\New folder\Doctor\Doctor\obj\Release\Doctor.application
+C:\Users\DELL\Desktop\trying system - Copy - Copy\diagram\New folder\Doctor\Doctor\obj\Release\Doctor.csprojResolveAssemblyReference.cache
+E:\NIBM\diplomaDCSD\2nd sem\gui application development\trying system - Copy - Copy\diagram\New folder\Doctor\Doctor\bin\Release\Doctor.exe.config
+E:\NIBM\diplomaDCSD\2nd sem\gui application development\trying system - Copy - Copy\diagram\New folder\Doctor\Doctor\obj\Release\Doctor.exe
+E:\NIBM\diplomaDCSD\2nd sem\gui application development\trying system - Copy - Copy\diagram\New folder\Doctor\Doctor\obj\Release\Doctor.pdb
+E:\NIBM\diplomaDCSD\2nd sem\gui application development\trying system - Copy - Copy\diagram\New folder\Doctor\Doctor\bin\Release\Doctor.exe.manifest
+E:\NIBM\diplomaDCSD\2nd sem\gui application development\trying system - Copy - Copy\diagram\New folder\Doctor\Doctor\bin\Release\Doctor.application
+E:\NIBM\diplomaDCSD\2nd sem\gui application development\trying system - Copy - Copy\diagram\New folder\Doctor\Doctor\bin\Release\Doctor.exe
+E:\NIBM\diplomaDCSD\2nd sem\gui application development\trying system - Copy - Copy\diagram\New folder\Doctor\Doctor\bin\Release\Doctor.pdb
+E:\NIBM\diplomaDCSD\2nd sem\gui application development\trying system - Copy - Copy\diagram\New folder\Doctor\Doctor\obj\Release\Doctor.About.resources
+E:\NIBM\diplomaDCSD\2nd sem\gui application development\trying system - Copy - Copy\diagram\New folder\Doctor\Doctor\obj\Release\Doctor.Add_Medicine.resources
+E:\NIBM\diplomaDCSD\2nd sem\gui application development\trying system - Copy - Copy\diagram\New folder\Doctor\Doctor\obj\Release\Doctor.Bill.resources
+E:\NIBM\diplomaDCSD\2nd sem\gui application development\trying system - Copy - Copy\diagram\New folder\Doctor\Doctor\obj\Release\Doctor.contact.resources
+E:\NIBM\diplomaDCSD\2nd sem\gui application development\trying system - Copy - Copy\diagram\New folder\Doctor\Doctor\obj\Release\Doctor.Create_Account.resources
+E:\NIBM\diplomaDCSD\2nd sem\gui application development\trying system - Copy - Copy\diagram\New folder\Doctor\Doctor\obj\Release\Doctor.Instructions.resources
+E:\NIBM\diplomaDCSD\2nd sem\gui application development\trying system - Copy - Copy\diagram\New folder\Doctor\Doctor\obj\Release\Doctor.Login.resources
+E:\NIBM\diplomaDCSD\2nd sem\gui application development\trying system - Copy - Copy\diagram\New folder\Doctor\Doctor\obj\Release\Doctor.Medicine.resources
+E:\NIBM\diplomaDCSD\2nd sem\gui application development\trying system - Copy - Copy\diagram\New folder\Doctor\Doctor\obj\Release\Doctor.Properties.Resources.resources
+E:\NIBM\diplomaDCSD\2nd sem\gui application development\trying system - Copy - Copy\diagram\New folder\Doctor\Doctor\obj\Release\Doctor.csproj.GenerateResource.Cache
+E:\NIBM\diplomaDCSD\2nd sem\gui application development\trying system - Copy - Copy\diagram\New folder\Doctor\Doctor\obj\Release\Doctor.exe.manifest
+E:\NIBM\diplomaDCSD\2nd sem\gui application development\trying system - Copy - Copy\diagram\New folder\Doctor\Doctor\obj\Release\Doctor.application
+E:\NIBM\diplomaDCSD\2nd sem\gui application development\trying system - Copy - Copy\diagram\New folder\Doctor\Doctor\obj\Release\Doctor.income.resources
+E:\NIBM\diplomaDCSD\2nd sem\gui application development\trying system - Copy - Copy\diagram\New folder\Doctor\Doctor\obj\Release\Doctor.csprojResolveAssemblyReference.cache
